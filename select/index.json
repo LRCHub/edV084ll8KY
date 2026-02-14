@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Cycle Of Sorrow",
+  "base_artist": "ダイヤモンドダスト",
+  "createdAt": "2026-02-14T09:19:00.712922Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cycle Of Sorrow",
+      "artist": "ダイヤモンドダスト",
+      "has_synced": true,
+      "path": "select/01_Cycle_Of_Sorrow_ダイヤモンドダスト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cycle Of Sorrow (Instrumental)",
+      "artist": "ダイヤモンドダスト",
+      "has_synced": true,
+      "path": "select/02_Cycle_Of_Sorrow_(Instrumental)_ダイヤモンドダスト.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cycle Of Sorrow",
+      "artist": "ダイヤモンドダスト",
+      "has_synced": true,
+      "path": "select/03_Cycle_Of_Sorrow_ダイヤモンドダスト.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cycle Of Sorrow",
+      "artist": "DIAMOND DUST",
+      "has_synced": false,
+      "path": "select/04_Cycle_Of_Sorrow_DIAMOND_DUST.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cycle Of Sorrow",
+      "artist": "ダイヤモンドダスト",
+      "has_synced": false,
+      "path": "select/pl_01_Cycle_Of_Sorrow_ダイヤモンドダスト.txt"
+    }
+  ]
+}
