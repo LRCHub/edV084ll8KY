@@ -1,38 +1,35 @@
-# ダイヤモンドダスト – Cycle Of Sorrow
+# DIAMOND DUST – Cycle Of Sorrow
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:20.88] 始まりを告げていく この世界の果てに
-[00:27.90] 迫り来るのは 怪しげ
-[00:31.19] 加速していくだけ 退屈な時間
-[00:36.57] 終わることも出来ない 夢の中で生きて
-[00:45.57] 
-[00:41.54] 四面楚歌で笑い合う
-[00:44.29] 君の不気味な視線に
-[00:46.99] 狂い合いたいけど それだけじゃ埋められない
-[00:57.49] 
-[00:51.73] 叫び足りないのこの世が 乾いた汗になびかせ
-[00:57.00] 変わりゆくものに 一粒の願いだけ
-[01:02.16] 叫び続けるよ 何度でも
-[01:04.79] 残酷な宿命の鎖が絡みついていく
-[01:11.67] 違う悲しみの輪廻
-[01:15.67] 
-[01:25.79] 時が過ぎ去るほど 過去に囚われてく
-[01:32.84] 振り解けない思い出
-[01:37.34] 
-[01:36.00] 水面下で嘲笑う
-[01:38.61] 見えない影に怯える
-[01:41.39] 何もかもが信じられなくていい 進め
-[01:49.89] 
-[01:47.61] 残酷な世界の中で救いの手を探してた
-[01:52.82] 託された想い守り抜くと誓うよ
-[01:58.10] 純粋な希望にしがみ付いてる君の目はいつまでも
-[02:04.03] 曇らせないで
-[02:07.03] 
-[02:35.65] 叫び足りないのこの世が 乾いた汗になびかせ
-[02:40.90] 変わりゆくものに 一粒の願いだけ
-[02:45.92] 叫び続けるよ 何度でも
-[02:48.62] 残酷な宿命の鎖が絡みついていく
-[02:55.55] 違う悲しみの輪廻
+[00:20.55] Hajimari wo tsugete iku kono sekai no hate ni
+[00:27.67] Semarikuru no wa ayashige
+[00:31.01] Kasoku shite iku dake taikutsu na jikan
+[00:36.07] Owaru koto mo dekinai yume no naka de ikite
+[00:41.35] Shimen soka de waraiau
+[00:43.81] Kimi no bukimi na shisen ni
+[00:46.37] Kuruiaitai kedo sore dake ja umerarenai
+[00:51.59] Sakebi tarinai no kono yo ga kawaita ase ni nabikase
+[00:56.76] Kawariyuku mono ni hitotsubu no negai dake
+[01:01.82] Sakebi tsuzukeru yo nando demo
+[01:04.45] Zankoku na shukumei no kusari ga karamitsuite iku
+[01:11.55] Chigau kanashimi no rinne
+[01:24.05] 
+[01:25.44] Toki ga sugisaru hodo kako ni torawareteku
+[01:32.61] Furihodokenai omoide
+[01:35.84] Suimenka de azakewarau
+[01:38.41] Mienai kage ni obieru
+[01:41.02] Nanimo kamo ga shinjirarenakute ii susume
+[02:01.52] 
+[01:47.39] Zankoku na sekai no naka de sukui no te wo sagashiteta
+[01:52.52] Takusareta omoi mamorinuku to chikau yo
+[01:57.68] Junsui na kibou ni shigamitsuiteru kimi no me wa itsu made mo
+[02:03.69] Kumorasenaide
+[02:10.19] 
+[02:35.35] Sakebi tarinai no kono yo ga kawaita ase ni nabikase
+[02:40.46] Kawariyuku mono ni hitotsubu no negai dake
+[02:45.63] Sakebi tsuzukeru yo nando demo
+[02:48.34] Zankoku na shukumei no kusari ga karamitsuite iku
+[02:55.30] Chigau kanashimi no rinne
 ```
